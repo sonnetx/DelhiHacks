@@ -1,1 +1,1 @@
-# COVIDHacks
+# DelhiHacks
